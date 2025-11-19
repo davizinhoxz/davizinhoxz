@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Apresentação
 
-<!--
-**davizinhoxz/davizinhoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Davi, sou estudante de programação e tenho grande interesse em desenvolver minhas habilidades na área de tecnologia. Busco sempre aprender mais e colocar em prática novos conhecimentos.
 
-Here are some ideas to get you started:
+💻 Interesse em Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A programação tem sido uma área pela qual desenvolvo crescente curiosidade. Gosto de explorar diferentes linguagens, ferramentas e conceitos, buscando entender como cada parte contribui para a criação de soluções digitais.
+
+🏫 Formação
+
+Atualmente, sou aluno do curso de Programação oferecido pela Oficina – Escola Profissional. Essa formação tem ampliado minha visão sobre o universo tecnológico e me permitido evoluir de forma constante.
+
+🗂️ Projetos e Repositórios
+
+Mantenho meus repositórios organizados para registrar minha evolução como programador. Cada projeto representa um passo importante no meu aprendizado e demonstra minha dedicação em praticar e aprimorar minhas habilidades.
