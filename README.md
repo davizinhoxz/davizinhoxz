@@ -1,6 +1,6 @@
-👋 Apresentação
+# Davi Nascimento 👋
 
-Olá! Meu nome é Davi, sou estudante de programação e tenho grande interesse em desenvolver minhas habilidades na área de tecnologia. Busco sempre aprender mais e colocar em prática novos conhecimentos.
+😄 Olá! Meu nome é Davi, sou estudante de programação e tenho grande interesse em desenvolver minhas habilidades na área de tecnologia. Busco sempre aprender mais e colocar em prática novos conhecimentos.
 
 💻 Interesse em Programação
 
@@ -13,3 +13,7 @@ Atualmente, sou aluno do curso de Programação oferecido pela Oficina – Escol
 🗂️ Projetos e Repositórios
 
 Mantenho meus repositórios organizados para registrar minha evolução como programador. Cada projeto representa um passo importante no meu aprendizado e demonstra minha dedicação em praticar e aprimorar minhas habilidades.
+
+ Um Pouco Sobre Mim (Topico Descontraído)
+
+💡 Além de tudo isso, também gosto de explorar ideias novas, testar códigos diferentes e descobrir “como fazer as coisas funcionarem”. Às vezes dá certo de primeira, às vezes nem tanto — mas isso faz parte da programação.
