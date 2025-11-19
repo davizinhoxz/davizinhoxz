@@ -16,4 +16,4 @@ Mantenho meus repositórios organizados para registrar minha evolução como pro
 
 💡 Um Pouco Sobre Mim
 
-Além de tudo isso, também gosto de explorar ideias novas, testar códigos diferentes e descobrir “como fazer as coisas funcionarem”. Às vezes dá certo de primeira, às vezes nem tanto — mas isso faz parte da programação.
+Além de tudo isso, também gosto de explorar ideias novas, testar códigos diferentes e descobrir “como fazer as coisas funcionarem”. Às vezes dá certo de primeira, às vezes nem tanto, mas isso faz parte da programação.
