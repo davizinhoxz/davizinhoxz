@@ -1,19 +1,14 @@
-# Davi Nascimento 👋
+Davi Nascimento
 
-😄 Olá! Meu nome é Davi, sou estudante de programação e tenho grande interesse em desenvolver minhas habilidades na área de tecnologia. Busco sempre aprender mais e colocar em prática novos conhecimentos.
+Estudante de Programador de Informática · Curso Técnico Profissional na OFICINA – Escola Profissional (2025 – presente) Vila Nova de Famalicão, Portugal
 
-💻 Interesse em Programação
+Sobre mim
 
-A programação tem sido uma área pela qual desenvolvo crescente curiosidade. Gosto de explorar diferentes linguagens, ferramentas e conceitos, buscando entender como cada parte contribui para a criação de soluções digitais.
+Estudante de programação com bases em Java, C++ e Python e interesse em desenvolvimento de software. Este perfil reúne os exercícios e projetos que desenvolvo ao longo do curso, organizados por linguagem. Estou à procura de um estágio onde possa aplicar o que aprendi e continuar a evoluir numa equipa técnica.
 
-🏫 Formação
-
-Atualmente, sou aluno do curso de Programação oferecido pela Oficina – Escola Profissional. Essa formação tem ampliado minha visão sobre o universo tecnológico e me permitido evoluir de forma constante.
-
-🗂️ Projetos e Repositórios
-
-Mantenho meus repositórios organizados para registrar minha evolução como programador. Cada projeto representa um passo importante no meu aprendizado e demonstra minha dedicação em praticar e aprimorar minhas habilidades.
-
-💡 Um Pouco Sobre Mim
-
-Além de tudo isso, também gosto de explorar ideias novas, testar códigos diferentes e descobrir “como fazer as coisas funcionarem”. Às vezes dá certo de primeira, às vezes nem tanto, mas isso faz parte da programação.
+Tecnologias
+Área	Tecnologias
+Linguagens	Java, C++, Python, JavaScript
+Web	HTML5, CSS
+Bases de dados	MySQL
+Conceitos	Programação Orientada a Objetos (POO), algoritmia, estruturas de dados, fluxogramas
